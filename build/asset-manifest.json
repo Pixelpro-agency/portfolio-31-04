@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.aabe4e6b.css",
+    "main.js": "/static/js/main.b360b53c.js",
+    "static/media/man_about.png": "/static/media/man_about.1519964a8e42ff70201c.png",
+    "static/media/man_banner.png": "/static/media/man_banner.25f7c77ce567c5eb7001.png",
+    "static/media/google.svg": "/static/media/google.32f86029814953e4aa1abb3850472d48.svg",
+    "static/media/99designs.svg": "/static/media/99designs.6bdf964642ff6e351b533bc1f6f9ef00.svg",
+    "static/media/p1.jpg": "/static/media/p1.8414a16a3ee64f39d422.jpg",
+    "static/media/p4.jpg": "/static/media/p4.5d003c18371e0517c97a.jpg",
+    "static/media/p2.jpg": "/static/media/p2.4b4bde089d049d2e3791.jpg",
+    "static/media/dribbble.svg": "/static/media/dribbble.143b215c1fa35afee3686554592f8e57.svg",
+    "static/media/p5.jpg": "/static/media/p5.e5baeb75cfac2b25ed56.jpg",
+    "static/media/p3.jpg": "/static/media/p3.a2cb33e2504d07ab31e7.jpg",
+    "static/media/uplabs.svg": "/static/media/uplabs.16a990dca68cc9e701d59591d2df963c.svg",
+    "static/media/behance.svg": "/static/media/behance.f7d045f1862224ee5dfdacc3dede2e18.svg",
+    "static/media/logo.svg": "/static/media/logo.1bfa9336ffae7cf7fd6936569e430ce5.svg",
+    "static/media/arrow.svg": "/static/media/arrow.2c4ebdb68734f30e2be1.svg",
+    "static/media/accaro.svg": "/static/media/accaro.49e372eedc5802bab5d3.svg",
+    "static/media/web_design.svg": "/static/media/web_design.72dd280fa3fe41eef29785a6b42e2bb6.svg",
+    "static/media/pattern.svg": "/static/media/pattern.44764ee72c7925881c43.svg",
+    "static/media/uiux_design.svg": "/static/media/uiux_design.d525fb4aac108a0349d947984165a6a2.svg",
+    "static/media/development.svg": "/static/media/development.8efd282a01c5d54d61f98a61e5dd1d57.svg",
+    "static/media/ornament.svg": "/static/media/ornament.19618aded6ac59feaf74.svg",
+    "index.html": "/index.html",
+    "static/media/blob.svg": "/static/media/blob.40c12e22448972c8c003.svg",
+    "static/media/rope.svg": "/static/media/rope.04a454a676ffade5a5e1.svg",
+    "main.aabe4e6b.css.map": "/static/css/main.aabe4e6b.css.map",
+    "main.b360b53c.js.map": "/static/js/main.b360b53c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aabe4e6b.css",
+    "static/js/main.b360b53c.js"
+  ]
+}
